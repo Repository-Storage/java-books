@@ -6,6 +6,10 @@
 * Effective Java, Second Edition, Joshua Bloch, Addison-Wesley Professional, 2008
 * Java concurrency in practice, Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea, Addison-Wesley Professional, 2006
 
+### Guides
+* Introducing Java 8, Raoul-Gabriel Urma, 2015
+* Lambda Expressions in Java, Angelika Langer, Klaus Kreft, 2013
+
 # Java EE
 * Java EE 7 Essentials, Arun Gupta, O'Reilly Media, 2013
 * RESTful Java with JAX-RS 2.0, 2nd Edition, Bill Burke, O'Reilly Media, 2013
@@ -22,6 +26,9 @@
 * Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Addison-Wesley Professional, 1994
 * Patterns of Enterprise Application Architecture, Martin Fowler, Addison-Wesley Professional, 2002
 * Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions, Gregor Hohpe, Bobby Woolf, Addison-Wesley Professional, 2003
+
+### Guides
+* Modern Java EE Design Patterns, Markus Eisele, 2015
 
 # Practices
 * Building Maintainable Software, Java Edition, Joost Visser, Sylvan Rigal, Rob van der Leek, Pascal van Eck, Gijs Wijnholds, O'Reilly Media, 2016
