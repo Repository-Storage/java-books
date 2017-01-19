@@ -1,10 +1,10 @@
 # Java SE
-* Java: The Complete Reference, Ninth Edition, Herbert Schildt, McGraw-Hill Education, 2014
 * Java 8 in Action: Lambdas, Streams, and functional-style programming, Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft, Manning Publications, 2014
-* Java Performance: The Definitive Guide, Scott Oaks, O'Reilly Media, 2014
 * The Well-grounded Java Developer: Vital Techniques of Java 7 and Polyglot Programming, Benjamin J. Evans, Martijn Verburg, Manning Publications, 2013
 * Effective Java, Second Edition, Joshua Bloch, Addison-Wesley Professional, 2008
+* Java Performance: The Definitive Guide, Scott Oaks, O'Reilly Media, 2014
 * Java concurrency in practice, Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea, Addison-Wesley Professional, 2006
+* Java: The Complete Reference, Ninth Edition, Herbert Schildt, McGraw-Hill Education, 2014
 
 ### Guides
 * Introducing Java 8, Raoul-Gabriel Urma, 2015
