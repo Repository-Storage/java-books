@@ -37,3 +37,7 @@
 * Continuous Integration: Improving Software Quality and Reducing Risk, Paul M. Duvall, Steve Matyas, Andrew Glover, Addison-Wesley Professional, 2007
 * Continuous Enterprise Development in Java, Andrew Lee Rubinger, Aslak Knutsen, O'Reilly Media, 2014
 * Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Jez Humble, David Farley, Addison-Wesley Professional, 2010
+
+# Algorithms
+* Grokking Algorithms, Aditya Y. Bhargava, Manning Publications, 2016
+* Introduction to Algorithms, 3rd Edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, MIT Press, 2009
