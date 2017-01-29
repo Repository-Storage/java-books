@@ -1,5 +1,6 @@
 # Java SE
 * Java 8 in Action: Lambdas, Streams, and functional-style programming, Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft, Manning Publications, 2014
+* Java 8 Lambdas, Richard Warburton, O'Reilly Media, 2014
 * The Well-grounded Java Developer: Vital Techniques of Java 7 and Polyglot Programming, Benjamin J. Evans, Martijn Verburg, Manning Publications, 2013
 * Effective Java, Second Edition, Joshua Bloch, Addison-Wesley Professional, 2008
 * Java Performance: The Definitive Guide, Scott Oaks, O'Reilly Media, 2014
