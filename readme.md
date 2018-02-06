@@ -1,45 +1,29 @@
-# Java SE
-* Java 8 in Action: Lambdas, Streams, and functional-style programming, Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft, Manning Publications, 2014
-* Java 8 Lambdas, Richard Warburton, O'Reilly Media, 2014
-* The Well-grounded Java Developer: Vital Techniques of Java 7 and Polyglot Programming, Benjamin J. Evans, Martijn Verburg, Manning Publications, 2013
-* Java Generics and Collections, Maurice Naftalin, Philip Wadler, O'Reilly Media, 2006
-* Effective Java, Second Edition, Joshua Bloch, Addison-Wesley Professional, 2008
-* Java Performance: The Definitive Guide, Scott Oaks, O'Reilly Media, 2014
-* Java concurrency in practice, Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea, Addison-Wesley Professional, 2006
-* Java: The Complete Reference, Ninth Edition, Herbert Schildt, McGraw-Hill Education, 2014
+__Edition: January 2018__
 
-### Guides
-* Introducing Java 8, Raoul-Gabriel Urma, 2015
-* Lambda Expressions in Java, Angelika Langer, Klaus Kreft, 2013
+_All links refer to [amazon.com](https://www.amazon.com/) for simplicity. You may be able to find better pricing at other locations. For example, all books from Manning Publications are available on [manning.com](https://www.manning.com/)._
 
-# Java EE
-* Java EE 7 Essentials, Arun Gupta, O'Reilly Media, 2013
-* RESTful Java with JAX-RS 2.0, 2nd Edition, Bill Burke, O'Reilly Media, 2013
-* EJB 3 in Action, Second Edition, Debu Panda, Reza Rahman, Ryan Cuprak, Michael Remijan, Manning Publications, 2014
-* Enterprise JavaBeans 3.1, 6th Edition, Andrew Lee Rubinger, Bill Burke, O'Reilly Media, 2010
-* Java Persistence with Hibernate, Second Edition, Christian Bauer, Gavin King, Gary Gregory, Manning Publications, 2015
+---
 
-# Spring
-* Spring in Action, Fourth Edition, Craig Walls, Manning Publications, 2014
-* Spring Boot in Action, Craig Walls, Manning Publications, 2015
+# Java
 
-# Design
-* Object-Oriented Analysis and Design with Applications, 3rd Edition, Grady Booch, Robert A. Maksimchuk, Michael W. Engle, Bobbi J. Young, Jim Conallen, Kelli A. Houston, Addison-Wesley Professional, 2007
-* Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Addison-Wesley Professional, 1994
-* Patterns of Enterprise Application Architecture, Martin Fowler, Addison-Wesley Professional, 2002
-* Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions, Gregor Hohpe, Bobby Woolf, Addison-Wesley Professional, 2003
+## Essentials
 
-### Guides
-* Modern Java EE Design Patterns, Markus Eisele, 2015
+* [Java 8 & 9 in Action](https://www.amazon.com/Java-8-Action-Raoul-Gabriel-Urma/dp/1617293563), Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft, Manning Publications, MEAP
+* [The Java Module System](https://www.amazon.com/Java-Module-System-Nicolai-Parlog/dp/1617294284), Nicolai Parlog, Manning Publications, MEAP
+* [Effective Java, Third Edition](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997), Joshua Bloch, Addison-Wesley Professional, 2018
+* [Building Maintainable Software, Java Edition](https://www.amazon.com/Building-Maintainable-Software-Java-Future-Proof/dp/1491953527), Joost Visser, Sylvan Rigal, Rob van der Leek, Pascal van Eck, Gijs Wijnholds, O'Reilly Media, 2016
 
-# Practices
-* Building Maintainable Software, Java Edition, Joost Visser, Sylvan Rigal, Rob van der Leek, Pascal van Eck, Gijs Wijnholds, O'Reilly Media, 2016
-* The Art of Unit Testing, Second Edition, Roy Osherove, Manning Publication, 2013
-* Effective Unit Testing, Lasse Koskela, Manning Publication, 2013
-* Continuous Integration: Improving Software Quality and Reducing Risk, Paul M. Duvall, Steve Matyas, Andrew Glover, Addison-Wesley Professional, 2007
-* Continuous Enterprise Development in Java, Andrew Lee Rubinger, Aslak Knutsen, O'Reilly Media, 2014
-* Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, Jez Humble, David Farley, Addison-Wesley Professional, 2010
+## Additional
 
-# Algorithms
-* Grokking Algorithms, Aditya Y. Bhargava, Manning Publications, 2016
-* Introduction to Algorithms, 3rd Edition, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, MIT Press, 2009
+* [Functional Programming in Java](https://www.amazon.com/Functional-Programming-Java-functional-techniques/dp/1617292737), Pierre-Yves Saumont, Manning Publications, 2017
+* [Reactive Programming with RxJava](https://www.amazon.com/Reactive-Programming-RxJava-Asynchronous-Applications/dp/1491931655), Tomasz Nurkiewicz, Ben Christensen, O'Reilly Media, 2016
+* [Java Performance](https://www.amazon.com/Java-Performance-Definitive-Guide-Getting/dp/1449358454), Scott Oaks, O'Reilly Media, 2014
+* [Java 8 Lambdas](https://www.amazon.com/Java-Lambdas-Functional-Programming-Masses/dp/1449370772), Richard Warburton, O'Reilly Media, 2014
+* [The Well-Grounded Java Developer](https://www.amazon.com/Well-Grounded-Java-Developer-techniques-programming/dp/1617290068), Benjamin J. Evans, Martijn Verburg, Manning Publications, 2013
+* [Java Generics and Collections](https://www.amazon.com/Java-Generics-Collections-Development-Process/dp/0596527756), O'Reilly Media, 2006
+* [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601), Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea, Addison-Wesley Professional, 2006
+
+# Unit testing
+
+* [The Art of Unit Testing](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890), Roy Osherove, 2013
+* [Effective Unit Testing](https://www.amazon.com/Effective-Unit-Testing-guide-developers/dp/1935182579), Lasse Koskela, 2013
